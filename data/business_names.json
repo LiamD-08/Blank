@@ -1,0 +1,11 @@
+{
+  "prefixes": ["ABC", "Premier", "Golden", "Silver", "Royal", "Summit", "River", "Oak", "Eagle", "Metro"],
+  "restaurant_names": ["Bistro", "Diner", "Grill", "Kitchen", "Eatery", "Cafe", "Brasserie", "Chophouse", "Tavern", "Smokehouse"],
+  "retail_names": ["Goods", "Mart", "Shop", "Store", "Outlet", "Emporium", "Depot", "Hub", "Corner", "Bazaar"],
+  "manufacturing_names": ["Works", "Industries", "Fabrications", "Manufacturing", "Products", "Components", "Precision", "Assembly", "Forge", "Mill"],
+  "service_names": ["Solutions", "Services", "Consulting", "Group", "Partners", "Associates", "Agency", "Network", "Advisors", "Professional"],
+  "technology_names": ["Tech", "Systems", "Digital", "Software", "Innovations", "Labs", "Dynamics", "Logic", "Cloud", "Data"],
+  "healthcare_names": ["Health", "Medical", "Wellness", "Care", "Clinic", "Therapy", "Rehabilitation", "Diagnostics", "Life", "Pharma"],
+  "hospitality_names": ["Inn", "Hotel", "Lodge", "Suites", "Resorts", "Stay", "Retreats", "Lodging", "Accommodation", "Getaway"],
+  "logistics_names": ["Freight", "Logistics", "Transport", "Carriers", "Delivery", "Shipping", "Distribution", "Supply", "Haulage", "Movers"]
+}
